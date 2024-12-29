@@ -61,8 +61,8 @@
 
     <footer class="text-lg-start bg-dark text-muted border-top border-light border-2">
         <div class="text-center p-4">
-            © 2023 Copyright:
-            <span class="text-reset fw-bold">Exam WebProg 2023</span>
+            © 2023 Made with ❤️ by
+            <span class="text-reset fw-bold">Harvan Nurluthfi</span>
         </div>
     </footer>
 
